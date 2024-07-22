@@ -1,6 +1,4 @@
 
-![Tugrul Kardas](https://github.com/tugrulkardas/tugrulkardas/blob/671f71e32cdd11b2a7b76fda23433d706f733945/github%20front.png)
-
 
 ### Hi there, I'm Tugrul! 👋
 - 💃🏻 I'm a Growth Hacker, an Industrial Engineering Senior at METU, and a candidate Data Scientist.
