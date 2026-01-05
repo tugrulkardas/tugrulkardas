@@ -1,8 +1,7 @@
 
 
 ### Hi there, I'm Tugrul! 👋
-- 💃🏻 I'm a Growth Hacker, an Industrial Engineering Senior at METU, and a candidate Data Scientist.
-- 🌱 I’m currently learning Tableau while sharpening my skills in Machine Learning.  
+- 💃🏻 I'm a Data Scientist and a METU Alumni.
 - 📫 How to reach me: tugrulkardas36@gmail.com
 - 😄 Pronouns: He/Him
 
